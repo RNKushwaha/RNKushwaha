@@ -2,7 +2,7 @@
 
 I'm a Software engineer having strong passion for making open-source more accessible, creating technology to help people, and building the web more awesome. I enjoy working with ReactJS, NextJS, Jamstack, Prisma, Redis, GraphQL.
 
-## Yo can find me: 
+## You can find me: 
 - Writing on <a href="https://www.rnkushwaha.in">My Blog</a> ✍🏾
 - Building something amazing on <a href="https://www.rnkushwaha.in" target="blank"> My Portfolio</a> 
 - Sharing updates on <a href="https://www.linkedin.com/in/rnkushwaha/" target="blank">LinkedIn</a> 💼
