@@ -2,9 +2,6 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rnkushwaha022&label=Profile%20views&color=0e75b6&style=flat" alt="rnkushwaha022" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rnkushwaha022" alt="rnkushwaha022" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rnkushwaha022" target="blank"><img src="https://img.shields.io/twitter/follow/rnkushwaha022?logo=twitter&style=for-the-badge" alt="rnkushwaha022" /></a> </p>
 
 - 🔭 I’m currently working on [cruzer-crop](https://github.com/CruzerSoftwares/cruzer-crop)
@@ -36,7 +33,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rnkushwaha022&show_icons=true&locale=en&layout=compact" alt="rnkushwaha022" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rnkushwaha022&show_icons=true&locale=en" alt="rnkushwaha022" /></p><br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnkushwaha022&" alt="rnkushwaha022" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/RNkushwaha022"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RNkushwaha022" /></a></p><br><br>
