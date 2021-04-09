@@ -1,24 +1,6 @@
-<h1 align="center">Hi 👋, I'm RN Kushwaha</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# Hi 👋, I'm RN Kushwaha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rnkushwaha022&label=Profile%20views&color=0e75b6&style=flat" alt="rnkushwaha022" /> </p>
-<p align="left"> <a href="https://twitter.com/rnkushwaha022" target="blank"><img src="https://img.shields.io/twitter/follow/rnkushwaha022?logo=twitter&style=for-the-badge" alt="rnkushwaha022" /></a> </p>
-
-- 🔭 I’m currently working on [cruzer-crop](https://github.com/CruzerSoftwares/cruzer-crop)
-
-- 🌱 I’m currently learning **NextJS, PostgresSQL, GraphQL, Jest**
-
-- 👯 I’m looking to collaborate on [fileMagician](https://github.com/CruzerSoftwares/fileMagician)
-
-- 👨‍💻 All of my projects are available at [https://rnkushwaha.in/portfolio](https://rnkushwaha.in/portfolio)
-
-- 📝 I regularly write articles on [https://rnkushwaha.in/blog](https://rnkushwaha.in/blog)
-
-- 💬 Ask me about **react, Express**
-
-- 📫 How to reach me **rn.kushwaha022@gmail.com**
-
-- ⚡ Fun fact **I am not that funny**
+I'm a Software engineer having strong passion for making open-source more accessible, creating technology to help people, and building the web more awesome. I enjoy working with ReactJS, NextJS, Jamstack, Prisma, Redis, GraphQL.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
