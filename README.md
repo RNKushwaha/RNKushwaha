@@ -32,7 +32,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rnkushwaha022&show_icons=true&locale=en&layout=compact" alt="rnkushwaha022" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rnkushwaha022&show_icons=true&locale=en" alt="rnkushwaha022" /></p><br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rnkushwaha022&show_icons=true&locale=en&count_private=true&theme=radical" alt="rnkushwaha022" /></p><br/>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/RNkushwaha022"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RNkushwaha022" /></a></p><br><br>
