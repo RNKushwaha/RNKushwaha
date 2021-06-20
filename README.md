@@ -1,6 +1,6 @@
 # Hi 👋, I'm RN Kushwaha
 
-I'm a Software engineer having strong passion for making open-source more accessible, creating technology to help people, and building the web more awesome. I enjoy working with ReactJS, NextJS, Jamstack, Prisma, Redis, GraphQL.
+I'm a Software engineer having strong passion for making open-source more accessible, creating technology to help people, and building the web more awesome. I enjoy working with ReactJS, NextJS, Jamstack, Redis, GraphQL.
 
 ## You can find me: 
 - Writing on <a href="https://www.rnkushwaha.in">My Blog</a> ✍🏾
